@@ -1,0 +1,8 @@
+transformers
+torch
+torchvision
+torchaudio
+torch-geometric
+textblob
+scikit-learn
+peft
