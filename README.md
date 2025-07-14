@@ -55,7 +55,7 @@ print(output)
 ```
 
 ##  Notes
-- Model is fine-tuned and saved on Google Drive — link provided inside the notebook.
+- Model is fine-tuned and saved on Google Drive — (https://drive.google.com/file/d/1-TD8XniK2Vx0ySJd6GudHzgd7L1ODORG/view?usp=drive_link).
 - Designed primarily for biomedical/scientific domain queries, but extensible to others.
 
 ---
